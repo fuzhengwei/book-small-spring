@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	         http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="sqlSessionFactory" class="cn.bugstack.springframework.mybatis.SqlSessionFactoryBean">
+        <property name="resource" value="classpath:mybatis-config-datasource.xml"/>
+    </bean>
+
+    <bean class="cn.bugstack.springframework.mybatis.MapperScannerConfigurer">
+        <!-- 注入sqlSessionFactory -->
+        <property name="sqlSessionFactory" ref="sqlSessionFactory"/>
+        <!-- 给出需要扫描Dao接口包 -->
+        <property name="basePackage" value="cn.bugstack.springframework.test.dao"/>
+    </bean>
+
+</beans>
