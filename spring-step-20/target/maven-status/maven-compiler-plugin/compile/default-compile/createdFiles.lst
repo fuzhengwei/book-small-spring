@@ -1,0 +1,8 @@
+cn/bugstack/middleware/mybatis/XNode.class
+cn/bugstack/middleware/mybatis/DefaultSqlSessionFactory.class
+cn/bugstack/middleware/mybatis/SqlSessionFactoryBuilder.class
+cn/bugstack/middleware/mybatis/Configuration.class
+cn/bugstack/middleware/mybatis/SqlSessionFactory.class
+cn/bugstack/middleware/mybatis/SqlSession.class
+cn/bugstack/middleware/mybatis/Resources.class
+cn/bugstack/middleware/mybatis/DefaultSqlSession.class

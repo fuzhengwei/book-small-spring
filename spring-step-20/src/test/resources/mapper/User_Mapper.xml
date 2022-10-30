@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.bugstack.middleware.mybatis.test.dao.IUserDao">
+
+    <select id="queryUserInfoById" parameterType="java.lang.Long" resultType="cn.bugstack.middleware.mybatis.test.po.User">
+        SELECT id, userId, userHead, createTime
+        FROM user
+        where id = #{id}
+    </select>
+
+    <select id="queryUserList" parameterType="cn.bugstack.middleware.mybatis.test.po.User" resultType="cn.bugstack.middleware.mybatis.test.po.User">
+        SELECT id, userId, userHead, createTime, updateTime
+        FROM user
+        where userId = #{userId}
+    </select>
+
+</mapper>
