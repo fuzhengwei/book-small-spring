@@ -1,13 +1,13 @@
 # 《手写Spring：渐进式源码实践》 —— 书籍源码库
 
+`IOC`、`AOP`、`SPI`，Spring 给你的不只是一个开发框架，还包括它的设计思想。它通过解耦 Bean 对象的实例化过程，管理 Bean 的生命周期，来维护你在程序开发中所需对象使用过程。让你不需要刀耕火种般 new 一个对象，也不需要如 EJB 一样笨重臃肿的开发维护，而像春风一样润物(`万物皆可Bean`)细无声的使用。因此可以说它完全担得起 **Java 技术设计的顶峰**。
+<br/>
 <div align="center">
     <a href="https://u.jd.com/4LapTH4" target="_blank">
     <img src="https://github.com/fuzhengwei/book-small-spring/blob/master/doc/book.png?raw=true" width="250px">
     </a>
 </div>
-
-`IOC`、`AOP`、`SPI`，Spring 给你的不只是一个开发框架，还包括它的设计思想。它通过解耦 Bean 对象的实例化过程，管理 Bean 的生命周期，来维护你在程序开发中所需对象使用过程。让你不需要刀耕火种般 new 一个对象，也不需要如 EJB 一样笨重臃肿的开发维护，而像春风一样润物(`万物皆可Bean`)细无声的使用。因此可以说它完全担得起 **Java 技术设计的顶峰**。
-
+<br/>
 除了运用以外，Spring 框架也是众多码农，最能最先接触到的一个**源码级复杂项目**。任何初出新手村蜕变的码农，寻觅苦找的锻炼项目，都不如学习 Spring 源码来的痛快。从架构设计的复杂、从分治抽象的运用、从设计模式的驾驭，Spring 框架都是顶级的，也是最能给你带来丰富收获的。
 
 ---
