@@ -24,12 +24,7 @@
 
 ## 2. 书籍购买
 
-- 扫码下单，扫码下面👇🏻的二维码进行下单
-- 链接下单：[https://u.jd.com/4LapTH4](https://u.jd.com/4LapTH4)
-
-<div align="center">
-    <img src="https://bugstack.cn/images/article/product/book/spring-t-04.png?raw=true" width="350px">
-</div>
+**链接下单**：[https://u.jd.com/4LapTH4](https://u.jd.com/4LapTH4)
 
 本书共21章；
 - 第1 - 10章：主要介绍IOC 容器，逐步完善一个简单的Spring Bean 容器的相关功能，引入实例化策略、注入属性和依赖、设计应用上下文、处理Bean 对象的生命周期，以及实现感知容器对象的监听等。
