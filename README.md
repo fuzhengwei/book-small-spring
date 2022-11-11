@@ -68,3 +68,9 @@
 
 - 错误：图 2-2 DefaultSingletonBeanRegistry #addSingleton 类图与代码不符
 - 修改：图 2-2 DefaultSingletonBeanRegistry #registerSingleton
+
+### 3. 第5页，工程示意图调整
+
+- 错误：SpringTutorials
+- 修改：book-small-spring 
+- 说明：因为作者github中项目较多，所以统一修改了工程名称，方便读者知道book开头的是项目工程是图书库代码。
