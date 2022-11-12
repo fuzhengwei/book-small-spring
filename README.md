@@ -83,3 +83,9 @@
 - 错误：SpringTutorials
 - 修改：book-small-spring 
 - 说明：因为作者github中项目较多，所以统一修改了工程名称，方便读者知道book开头的是项目工程是图书库代码。
+
+### 4. 第27页，工程结构，颜色标记 感谢 @反馈人：苏沐
+
+- 错误：DefaultListableBeanFactory 绿色标记
+- 修改：DefaultListableBeanFactory 黑色标记
+- 说明：绿色为新增，DefaultListableBeanFactory 非新增类，为黑色。
