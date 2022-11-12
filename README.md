@@ -1,8 +1,8 @@
 # 《手写Spring：渐进式源码实践》 —— 书籍源码库
 
-:man_technologist:作者：小傅哥
+👨‍💻作者：小傅哥
 <br/>
-:seedling:微信：fustack —— 可以添加微信备注【Spring读书群📚】
+🌱微信：fustack —— 可以添加微信备注【Spring读书群📚】
 
 >沉淀、分享、成长，让自己和他人都能有所收获！
 
@@ -21,6 +21,9 @@
 
 **📝目录**
 
+0. 代码仓库
+    - GitHub：[https://github.com/fuzhengwei/book-small-spring](https://github.com/fuzhengwei/book-small-spring)
+    - Gitcode：[https://gitcode.net/fuzhengwei/book-small-spring](https://gitcode.net/fuzhengwei/book-small-spring)
 1. 本书特点
 2. 学以致用
 3. [书籍购买](https://u.jd.com/4LapTH4)
