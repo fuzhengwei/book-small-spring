@@ -90,7 +90,7 @@
 - 修改：DefaultListableBeanFactory 黑色标记
 - 说明：绿色为新增，DefaultListableBeanFactory 非新增类，为黑色。
 
-### 5. 第52页，图 5-4 感谢 反馈人：@水中捞月
+### 5. 第52页，图 5-4 感谢 反馈人：@水中捞月、@INIT
 
 - 错误：BeanFactory 多了一个 registerBeanDefinition 方法
-- 修改：删除掉 registerBeanDefinition 方法
+- 修改：删除掉 registerBeanDefinition 方法，并在 BeanFactory 标记《接口》
