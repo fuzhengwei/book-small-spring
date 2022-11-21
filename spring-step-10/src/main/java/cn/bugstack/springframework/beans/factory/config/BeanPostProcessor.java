@@ -4,6 +4,9 @@ import cn.bugstack.springframework.beans.BeansException;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description 用于修改新实例化 Bean 对象的扩展点
  * @date 2022/3/10
  * @github https://github.com/fuzhengwei/CodeDesignTutorials

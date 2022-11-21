@@ -2,6 +2,9 @@ package cn.bugstack.springframework.beans.factory;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description Interface to be implemented by objects used within a {@link BeanFactory}
  * which are themselves factories. If a bean implements this interface,
  * it is used as a factory for an object to expose, not directly as a bean
