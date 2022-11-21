@@ -7,6 +7,9 @@ import java.lang.reflect.Constructor;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description 实现默认bean创建的抽象bean工厂超类
  * @date 2022/03/07
  * @github https://github.com/fuzhengwei
