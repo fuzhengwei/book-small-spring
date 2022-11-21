@@ -2,6 +2,9 @@ package cn.bugstack.springframework.core.convert.converter;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description 类型转换注册接口
  * @date 2022/3/16
  * @github https://github.com/fuzhengwei
