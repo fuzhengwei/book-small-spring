@@ -4,6 +4,9 @@ import cn.bugstack.springframework.beans.PropertyValues;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description 定义 Bean 实例信息
  * @date 2022/03/07
  * @github https://github.com/fuzhengwei
