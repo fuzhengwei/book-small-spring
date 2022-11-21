@@ -2,6 +2,9 @@ package cn.bugstack.springframework.context.event;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description Event raised when an <code>ApplicationContext</code> gets closed.
  * @date 2022/3/13
  * @github https://github.com/fuzhengwei/CodeDesignTutorials
