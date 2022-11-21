@@ -9,6 +9,9 @@ import java.lang.reflect.Constructor;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description Cglib 实例化策略
  * @date 2022/03/08
  * @github https://github.com/fuzhengwei
