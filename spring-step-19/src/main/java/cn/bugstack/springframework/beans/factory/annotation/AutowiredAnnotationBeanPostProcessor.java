@@ -12,14 +12,14 @@ import cn.hutool.core.bean.BeanUtil;
 import java.lang.reflect.Field;
 
 /**
- * @author 小傅哥，微信：fustack
+ *
  * @description 处理 @Value、@Autowired，注解的 BeanPostProcessor {@link cn.bugstack.springframework.beans.factory.config.BeanPostProcessor} implementation
  * that autowires annotated fields, setter methods and arbitrary config methods.
  * Such members to be injected are detected through a Java 5 annotation: by default,
  * Spring's {@link Autowired @Autowired} and {@link Value @Value} annotations.
  * @date 2022/3/15
- * @github https://github.com/fuzhengwei/CodeDesignTutorials
- * @Copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *  /CodeDesignTutorials
+ *
  */
 public class AutowiredAnnotationBeanPostProcessor implements InstantiationAwareBeanPostProcessor, BeanFactoryAware {
 

@@ -11,11 +11,11 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author 小傅哥，微信：fustack
+ *
  * @description 默认的Bean工厂实现类
  * @date 2022/03/07
- * @github https://github.com/fuzhengwei
- * @copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *
+ *
  */
 public class DefaultListableBeanFactory extends AbstractAutowireCapableBeanFactory implements BeanDefinitionRegistry, ConfigurableListableBeanFactory {
 

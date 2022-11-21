@@ -14,16 +14,16 @@ import org.aopalliance.intercept.MethodInterceptor;
 import java.util.Collection;
 
 /**
- * @author 小傅哥，微信：fustack
  *
- * 来自于对开源项目的学习；
+ *
+ *
  * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description BeanPostProcessor implementation that creates AOP proxies based on all candidate
  * Advisors in the current BeanFactory. This class is completely generic; it contains
  * no special code to handle any particular aspects, such as pooling aspects.
  * @date 2022/3/14
- * @github https://github.com/fuzhengwei/CodeDesignTutorials
- * @Copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *  /CodeDesignTutorials
+ *
  */
 public class DefaultAdvisorAutoProxyCreator implements InstantiationAwareBeanPostProcessor, BeanFactoryAware {
 

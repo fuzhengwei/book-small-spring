@@ -7,11 +7,11 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
 
 /**
- * @author 小傅哥，微信：fustack
+ *
  * @description 数据库操作映射工厂对象，每一个 DAO 接口对应 Mapper 的代理对象。通过代理对象完成数据库的操作。
  * @date 2022/3/18
- * @github https://github.com/fuzhengwei
- * @Copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *
+ *
  */
 public class MapperFactoryBean<T> implements FactoryBean<T> {
 

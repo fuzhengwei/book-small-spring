@@ -5,14 +5,14 @@ import cn.bugstack.springframework.beans.factory.config.BeanPostProcessor;
 import cn.bugstack.springframework.test.bean.UserService;
 
 /**
- * @author 小傅哥，微信：fustack
  *
- * 来自于对开源项目的学习；
+ *
+ *
  * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description BeanPostProcessor 在 Bean 对象执行初始化方法前后进行扩展
  * @date 2022/03/10
- * @github https://github.com/fuzhengwei
- * @copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *
+ *
  */
 public class MyBeanPostProcessor implements BeanPostProcessor {
 

@@ -20,14 +20,14 @@ import java.util.Collection;
 import java.util.Map;
 
 /**
- * @author 小傅哥，微信：fustack
+ *
  * @description 抽象应用上下文 Abstract implementation of the {@link cn.bugstack.springframework.context.ApplicationContext}
  * interface. Doesn't mandate the type of storage used for configuration; simply
  * implements common context functionality. Uses the Template Method design pattern,
  * requiring concrete subclasses to implement abstract methods.
  * @date 2022/3/10
- * @github https://github.com/fuzhengwei
- * @copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *
+ *
  */
 public abstract class AbstractApplicationContext extends DefaultResourceLoader implements ConfigurableApplicationContext {
 

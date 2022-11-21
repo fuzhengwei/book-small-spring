@@ -5,9 +5,9 @@ import cn.bugstack.springframework.beans.BeansException;
 import java.util.Map;
 
 /**
- * @author 小傅哥，微信：fustack
  *
- * 来自于对开源项目的学习；
+ *
+ *
  * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description Extension of the {@link BeanFactory} interface to be implemented by bean factories
  * that can enumerate all their bean instances, rather than attempting bean lookup
@@ -15,8 +15,8 @@ import java.util.Map;
  * preload all their bean definitions (such as XML-based factories) may implement
  * this interface.
  * @date 2022/3/9
- * @github https://github.com/fuzhengwei/CodeDesignTutorials
- * @Copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *  /CodeDesignTutorials
+ *
  */
 public interface ListableBeanFactory extends BeanFactory{
 

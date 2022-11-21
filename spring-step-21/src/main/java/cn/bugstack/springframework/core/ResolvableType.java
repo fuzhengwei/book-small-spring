@@ -15,14 +15,14 @@ import java.util.Map;
 
 
 /**
- * @author 小傅哥，微信：fustack
+ *
  * @description Encapsulates a Java {@link java.lang.reflect.Type}, providing access to
  * {@link #getSuperType() supertypes}, {@link #getInterfaces() interfaces}, and
  * {@link #getGeneric(int...) generic parameters} along with the ability to ultimately
  * {@link #resolve() resolve} to a {@link java.lang.Class}.
  * @date 2022/3/16
- * @github https://github.com/fuzhengwei/CodeDesignTutorials
- * @Copyright 公众号：bugstack虫洞栈 | 博客：https://bugstack.cn - 沉淀、分享、成长，让自己和他人都能有所收获！
+ *  /CodeDesignTutorials
+ *
  */
 public class ResolvableType implements Serializable {
     /**
