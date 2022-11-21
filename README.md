@@ -2,10 +2,14 @@
 
 ![](https://github.com/fuzhengwei/book-small-spring/blob/master/doc/book-01.png?raw=true)
 
-本书来自于对开源项目 DerekYRC/mini-spring、code4craft/tiny-spring 的源码；学习、扩展、补充，并编写文章总结经验，分享给广大读者，一起学习 Spring 源码。非常感谢开源项目贡献者，读者也可以一起学习，不同视角下的学习经验。
+本书来自于对开源项目 [DerekYRC/mini-spring](https://github.com/DerekYRC/mini-spring)、[code4craft/tiny-spring](https://github.com/code4craft/tiny-spring) 的源码；学习、扩展、补充，并编写文章总结经验，分享给广大读者，一起学习 Spring 源码。非常感谢开源项目贡献者，读者也可以一起学习，不同视角下的学习经验。
+
+**开源项目及优秀书籍**；
 
 - [DerekYRC/mini-spring](https://github.com/DerekYRC/mini-spring)
 - [code4craft/tiny-spring](https://github.com/code4craft/tiny-spring)
+- [《Spring源码深度解析》](https://item.jd.com/12506664.html)
+- [《精通Spring 4.x —— 企业应用开发实战》](https://item.jd.com/10062905219396.html)
 
 ---
 
