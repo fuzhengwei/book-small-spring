@@ -94,3 +94,8 @@
 
 - 错误：BeanFactory 多了一个 registerBeanDefinition 方法
 - 修改：删除掉 registerBeanDefinition 方法，并在 BeanFactory 标记`《接口》`
+
+### 6. 第167页，图 12-1 感谢 反馈人：@🍇葡萄
+
+- 错误：图中 ProxyFacory 单词错误
+- 修改：ProxyFacory 修改为 ProxyFactory
