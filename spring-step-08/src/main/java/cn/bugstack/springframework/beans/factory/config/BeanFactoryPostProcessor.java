@@ -5,6 +5,9 @@ import cn.bugstack.springframework.beans.factory.ConfigurableListableBeanFactory
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description 允许自定义修改 BeanDefinition 属性信息
  * @date 2022/3/10
  * @github https://github.com/fuzhengwei/CodeDesignTutorials

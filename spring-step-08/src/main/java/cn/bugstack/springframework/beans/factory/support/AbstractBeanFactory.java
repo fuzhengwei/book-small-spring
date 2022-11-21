@@ -12,6 +12,9 @@ import java.util.List;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description 抽象的 Bean 工厂基类，定义模板方法
  * @date 2022/03/07
  * @github https://github.com/fuzhengwei
