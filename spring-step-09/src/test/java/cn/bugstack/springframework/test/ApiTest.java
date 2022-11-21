@@ -7,6 +7,9 @@ import org.openjdk.jol.info.ClassLayout;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description 单元测试
  * @date 2022/03/10
  * @github https://github.com/fuzhengwei
