@@ -4,6 +4,9 @@ import java.lang.annotation.*;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description Annotation at the field or method/constructor parameter level
  * that indicates a default value expression for the affected argument.
  * @date 2022/3/15
