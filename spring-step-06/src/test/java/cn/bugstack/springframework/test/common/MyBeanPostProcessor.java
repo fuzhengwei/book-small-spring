@@ -6,6 +6,9 @@ import cn.bugstack.springframework.test.bean.UserService;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description BeanPostProcessor 在 Bean 对象执行初始化方法前后进行扩展
  * @date 2022/03/10
  * @github https://github.com/fuzhengwei

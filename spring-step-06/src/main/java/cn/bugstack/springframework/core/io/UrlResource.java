@@ -10,6 +10,9 @@ import java.net.URLConnection;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description URL 资源
  * @date 2022/3/9
  * @github https://github.com/fuzhengwei

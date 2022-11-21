@@ -4,6 +4,9 @@ import cn.bugstack.springframework.beans.BeansException;
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description XML 文件应用上下文 Standalone XML application context, taking the context definition files
  * from the class path, interpreting plain paths as class path resource names
  * that include the package path (e.g. "mypackage/myresource.txt"). Useful for

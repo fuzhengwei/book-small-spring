@@ -9,6 +9,9 @@ import cn.bugstack.springframework.beans.factory.config.BeanFactoryPostProcessor
 
 /**
  * @author 小傅哥，微信：fustack
+ *
+ * 来自于对开源项目的学习；
+ * 作者：DerekYRC https://github.com/DerekYRC/mini-spring
  * @description BeanFactoryPostProcessor 实例化 Bean 对象之前，修改 BeanDefinition 属性
  * @date 2022/03/10
  * @github https://github.com/fuzhengwei
